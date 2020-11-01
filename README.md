@@ -7,5 +7,5 @@ Let's do the comparison of means for a small sample with some small modification
 
 __As in the previous exercise, you need to complete the following functions to pass this final task__:
 
-1. `testStatisti`c - this function takes two  NumPy arrays in input:  `data1` that contains the samples from the first distribution and `data2` contains the samples from the second distribution.  This function should return the test statistic that was introduced in the previous task.   
+1. `testStatistic` - this function takes two  NumPy arrays in input:  `data1` that contains the samples from the first distribution and `data2` contains the samples from the second distribution.  This function should return the test statistic that was introduced in the previous task.   
 2. `pvalue` - this function takes two  NumPy arrays in input:  `data1` that contains the samples from the first distribution and `data2` contains the samples from the second distribution.   To complete the task you must use the value of the `testStatistic` to calculate the __p-value__.  The p-value should then be returned.
